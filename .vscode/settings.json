@@ -1,6 +1,6 @@
 {
-  "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#037DD6",
-    "titleBar.activeForeground": "#ffffff"
-  }
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
 }
