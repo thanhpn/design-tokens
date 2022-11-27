@@ -36,7 +36,7 @@ export const colors: ThemeColors = {
     default: '#0000001A',
   },
   primary: {
-    default: '#037DD6',
+    default: '#70D925',
     alternative: '#0260A4',
     muted: '#037DD619',
     inverse: '#FCFCFC',
@@ -96,5 +96,9 @@ export const colors: ThemeColors = {
   flask: {
     default: '#8B45B6',
     inverse: '#FCFCFC',
+  },
+  box: {
+    default: '#FAFBFC',
+    inverse: '#FAFBFC',
   },
 };

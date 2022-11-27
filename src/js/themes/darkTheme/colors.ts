@@ -6,7 +6,7 @@ import { ThemeColors } from '../types';
 
 export const colors: ThemeColors = {
   background: {
-    default: '##000311',
+    default: '#060A1D',
     defaultHover: '#3B4046',
     defaultPressed: '#3B4046',
     alternative: '#141618',
@@ -96,5 +96,9 @@ export const colors: ThemeColors = {
   flask: {
     default: '#8B45B6',
     inverse: '#FCFCFC',
+  },
+  box: {
+    default: '#10192D',
+    inverse: '#10192D',
   },
 };

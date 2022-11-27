@@ -288,6 +288,16 @@ export interface ThemeColors {
      */
     inverse: string;
   };
+  box: {
+    /**
+     * {string} flask.default - For Flask colored elements
+     */
+    default: string;
+    /**
+     * {string} flask.inverse - For elements used on top of flask/default
+     */
+    inverse: string;
+  };
 }
 
 export interface Theme {
