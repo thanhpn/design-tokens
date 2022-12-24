@@ -12,16 +12,17 @@ export const colors: ThemeColors = {
     alternative: '#F2F4F6',
     alternativeHover: '#D6D9DC',
     alternativePressed: '#D6D9DC',
+    layer2: '#1B2537',
   },
   text: {
-    default: '#24272A',
+    default: '#1B2537',
     alternative: '#535A61',
-    muted: '#BBC0C5',
+    muted: '#64748B',
   },
   icon: {
-    default: '#24272A',
+    default: '#1B2537',
     alternative: '#6A737D',
-    muted: '#BBC0C5',
+    muted: '#64748B',
   },
   border: {
     default: '#BBC0C5',
@@ -98,7 +99,7 @@ export const colors: ThemeColors = {
     inverse: '#FCFCFC',
   },
   box: {
-    default: '#FAFBFC',
-    inverse: '#FAFBFC',
+    default: '#F1F5F9',
+    inverse: '#F1F5F9',
   },
 };

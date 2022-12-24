@@ -47,6 +47,11 @@ export interface ThemeColors {
      * {string} background.alternativePressed - For component pressed states that use background/alternative
      */
     alternativePressed: string;
+
+    /**
+     * {string} background.layer2 - For component search bar, setting background
+     */
+    layer2: string;
   };
   text: {
     /**

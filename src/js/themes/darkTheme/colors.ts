@@ -12,16 +12,17 @@ export const colors: ThemeColors = {
     alternative: '#141618',
     alternativeHover: '#2E3339',
     alternativePressed: '#2E3339',
+    layer2: '#1B2537',
   },
   text: {
     default: '#FFFFFF',
     alternative: '#D6D9DC',
-    muted: '#9FA6AE',
+    muted: '#64748B',
   },
   icon: {
     default: '#FFFFFF',
     alternative: '#BBC0C5',
-    muted: '#9FA6AE',
+    muted: '#64748B',
   },
   border: {
     default: '#848C96',
